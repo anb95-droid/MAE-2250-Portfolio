@@ -73,4 +73,4 @@ We will develop a full CAD model with real-world dimensions along with a scaled-
 - 60 Hz Research - https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential-weakness
 
 ## Figure
-!(../Figures/RenderedImage.JPEG)
+![](../Figures/RenderedImage.JPEG)
